@@ -50,12 +50,14 @@ Access will be unlocked automatically.
 
 ---
 
-📬 Support
+## 📬 Support
 
 
 🤖 Bot: @MetaFikBot
 
-🔐 Private Repo
+---
+
+## 🔐 Private Repo
 
 This is a private repository. Redistribution, resale, or public sharing is strictly forbidden.
 For educational and research purposes only.
