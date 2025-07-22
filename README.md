@@ -50,16 +50,6 @@ Access will be unlocked automatically.
 
 ---
 
-## 🧪 Local Installation (Optional)
-
-If you'd rather run MetaFik manually:
-
-```bash
-git clone https://github.com/MetaShark-svg/MetaFik.py.git
-cd MetaFik.py
-pip install -r requirements.txt
-python MetaFik.py
-
 📬 Support
 
 
