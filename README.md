@@ -53,7 +53,7 @@ Access will be unlocked automatically.
 📬 Support
 
 
-    🤖 Bot: @MetaFikBot
+🤖 Bot: @MetaFikBot
 
 🔐 Private Repo
 
