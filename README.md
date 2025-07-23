@@ -1,31 +1,35 @@
-#  🧠 MetaFik
-Advanced OSINT tool for Facebook hacking to generate email and password for 2FA enabled accounts.
+# 🧠 MetaFik
 
-Now integrated with MetaFikBot on Telegram for private access & automation.
+**MetaFik** is an advanced OSINT framework built for automated Facebook metadata extraction and breach analysis. Designed specifically for accounts with 2FA enabled, it generates potential login credentials from public and dark data sources.
+
+> 🔒 Full script access is securely delivered via our Telegram bot after payment verification.
 
 ---
 
 ## 🎯 Features
 
-- Linked Email address generation
-- Breach push & password generation
-- Domain and IP enrichment
-- Fast CLI + Telegram bot delivery
-- Auto-verification via Ethereum payment
-- Instant Telegram access using `/verify`
+- 🔍 Linked Email Discovery
+- 🔑 Breach Password Generation
+- 🌐 Domain & IP Intelligence
+- ⚡️ Fast CLI + Telegram Automation
+- 💸 ETH Auto-Verification & Unlock
+- 🤖 Instant Delivery via Telegram Bot
 
 ---
+
 ## 🤖 Telegram Bot Access
 
-Use MetaFik securely via our Telegram bot:  
-👉 [@MetaFikBot](https://t.me/MetaFikBot)
+All functionality is handled via our bot:
 
-### Bot Commands:
+👉 **[@MetaFikBot](https://t.me/MetaFikBot)**
 
-- `/buy` – Shows payment address and amount  
-- `/access` – Activation instructions  
-- `/verify` – Verifies your ETH transaction  
-- `/help` – Lists all commands + support info  
+### Available Commands:
+| Command     | Description                              |
+|-------------|------------------------------------------|
+| `/buy`      | View payment instructions                |
+| `/access`   | Learn how to activate the script         |
+| `/verify`   | Verify ETH payment and unlock access     |
+| `/help`     | List all commands and get support        |
 
 ---
 
@@ -33,31 +37,7 @@ Use MetaFik securely via our Telegram bot:
 
 Send exactly:
 
-0.265 ETH
-
+**`0.265 ETH`**
 
 To this wallet address:
 
-0xb58937eB4D98E79e66522D32DDc6a4004ed74Ae9
-
-
-After payment, return to [@MetaFikBot](https://t.me/MetaFikBot) and type:
-
-/verify
-
-
-Access will be unlocked automatically.
-
----
-
-## 📬 Support
-
-
-🤖 Bot: @MetaFikBot
-
----
-
-## 🔐 Private Repo
-
-This is a private repository. Redistribution, resale, or public sharing is strictly forbidden.
-For educational and research purposes only.
