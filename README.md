@@ -17,6 +17,14 @@
 
 ---
 
+### ⚡ MetaFik v1.0 – Terminal Preview
+
+> Below is a preview of MetaFik in action inside a Linux terminal:
+
+![MetaFik Terminal](https://github.com/MetaShark-svg/MetaFik/blob/main/MetaFik_screenshot.png?raw=true)
+
+---
+
 ## 🤖 Telegram Bot Access
 
 All functionality is handled via our bot:
